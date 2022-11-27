@@ -10,19 +10,16 @@
 # Icons
 --------------------------------------------------------------*/
 
-.bi-1-square,.bi-2-square,.bi-3-square,.bi-4-square {
+.bi-1-square,.bi-2-square,.bi-3-square,.bi-4-square,.bi-5-square,.bi-6-square {
   font-size: 30px;
   letter-spacing: 10px;
 }
 
-/* .bi:hover {
+.bi:hover{
   color: #0078ff;
-  
-} */
-
-
-.selected{
-  background-color: red; 
+}
+.font-exp {
+  font-size: 22px;
 }
 
 /*--------------------------------------------------------------
