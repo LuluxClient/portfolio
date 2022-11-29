@@ -14,10 +14,14 @@ Info / Catégorie:
 - Icon github, Linkdn
 
 
+
+TODO: 
+
 - Pour la tableau de synthèse je peux prendre les projets que j'ai fais
 chez rivrs, bot discord (bug reports) et autre merde comme mettre
 en place le tebex, fix le pb de db avec les stacked blocks sur season...
-
+- Faire 2 veilles techno et 1 juridique
+- Ajouter tous les éléments manquants
 
 
 
