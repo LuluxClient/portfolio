@@ -11,7 +11,7 @@ Info / Catégorie:
 - Alternance / Stage (Attestation de stage, projet du stage, Documentation)
 - Tableau de synthèse
 - Contact
-- Icon github, Linkdn
+- Icon github, Linkdn (footer)
 
 
 
