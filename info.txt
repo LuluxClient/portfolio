@@ -11,9 +11,12 @@ Info / Catégorie:
 - Alternance / Stage (Attestation de stage, projet du stage, Documentation)
 - Tableau de synthèse
 - Contact
-- Icon github, Linkdn (footer)
+- Icon github, Linkdn
 
 
+- Pour la tableau de synthèse je peux prendre les projets que j'ai fais
+chez rivrs, bot discord (bug reports) et autre merde comme mettre
+en place le tebex, fix le pb de db avec les stacked blocks sur season...
 
 
 
