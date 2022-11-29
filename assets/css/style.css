@@ -8,10 +8,14 @@
   font-size: 30px;
   letter-spacing: 10px;
 }
-
-.bi:hover{
-  color: #0078ff;
+.surligne {
+  text-decoration: underline;
+  color:#0062d3;
 }
+
+/* .bi:hover{
+  color: #0078ff;
+} */
 .font-exp {
   font-size: 22px;
 }
