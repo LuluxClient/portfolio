@@ -20,8 +20,10 @@ TODO:
 - Pour la tableau de synthèse je peux prendre les projets que j'ai fais
 chez rivrs, bot discord (bug reports) et autre merde comme mettre
 en place le tebex, fix le pb de db avec les stacked blocks sur season...
-- Faire 2 veilles techno et 1 juridique
+- Faire 2 veilles techno et 1 juridique (Intelligence arti, Kotlin et juridique = Tiktok RGPD)
 - Ajouter tous les éléments manquants
+- Ajouter masse détails sur ma présentation "qui suis-je, mes expériences, 
+pas mal de textes etc..."
 
 
 
