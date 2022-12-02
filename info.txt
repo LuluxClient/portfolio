@@ -25,6 +25,11 @@ en place le tebex, fix le pb de db avec les stacked blocks sur season...
 - Ajouter masse détails sur ma présentation "qui suis-je, mes expériences, 
 pas mal de textes etc..."
 
+- Sur le tableau de synthèse il faut mettre plusieurs projets que tu as fais en stage et en Alternance
+et il ne faut pas faire le minimum sinon à l'orale tu auras des points en moins
+- add un CV peut être ?
+- Add le tableau synthèse de mort
+
 
 
 
