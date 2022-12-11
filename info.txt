@@ -31,6 +31,13 @@ et il ne faut pas faire le minimum sinon à l'orale tu auras des points en moins
 - Add le tableau synthèse de mort
 
 
+SYNTHESE:
+- Installation thème tebex et de service de payement
+- Analyse de problème d'optimisation via un outil de profiler (spark et yourkit)
+- Setup de serveur de jeu (mc)
+- Setup de Notion
+
+
 
 
 Portfolio intéressant (FREE)
