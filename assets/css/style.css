@@ -13,6 +13,11 @@
   color:#0062d3;
 }
 
+.surligne2, .surligne2:hover {
+  text-decoration: none;
+  color:#ffffff;
+}
+
 /* .bi:hover{
   color: #0078ff;
 } */
